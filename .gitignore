@@ -1,0 +1,17 @@
+# Compiled files
+*.rpyc
+*.rpyb
+*.pyc
+
+# Temporary files
+*~
+*.bak
+tmp/*
+game/cache/*
+
+# Local-only files
+errors.txt
+log.txt
+traceback.txt
+game/saves
+resources/*
