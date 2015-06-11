@@ -24,13 +24,21 @@ label episode1:
     menu
         "Yes, that's me."
             pc "Yes, sir! What seems to be the problem?"
-        "Uhhhhh, I think Bernard is."
+        "Isn't Bernard the advisor?"
             pc "Uhmmm..."
             smug_nerd "Yeah we're here. Go ahead and tell us what's going on."
     
     
     mammoth "I chased some evil minions to the building they're using as a hideout, but I can't seem to get in."
     mammoth "There's a force field blocking me from getting too close, and they have weapon that pushes me away when I try. I'm stuck."
+    
+    menu
+        "Let's think about what you could do differently."
+        "Are there any other obstacles in the way?"
+        "What else is around?"
+        "What city is this in, anyway?"
+        "Man that is so lame! You're probably really frustrated right now."
+        "I have no idea what to do. Bernard, do you have any ideas?"
     
     
     
