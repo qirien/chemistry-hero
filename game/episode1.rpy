@@ -36,14 +36,20 @@ label episode1:
     menu:
         "Let's think about this.":
             pc "Let's think about what you could do differently."
+            mammoth "Well, when I ran at the building, I got knocked away by some force field. It's got to be really strong."
+            mammoth "Maybe I could run less directly at the building? Or go at a different speed? Think it might help to charge faster?"
         "Are there any other obstacles in the way?":
             pc "Are there any other obstacles in the way?"
+            mammoth "Well now that you mention it, it looks like there's a robot in there. It's probably waiting for me to get past the other defenses."
         "What else is around?":
             pc "What else is around?"
+            mammoth "Well there's a few power poles, some cars, trash cans, and a little iron fence around the building."
         "What city is this in?":
             pc "What city is this in, anyway?"
+            mammoth "Toronto."
         "Sounds frustrating.":
             pc "Man, that is so lame! You're probably really frustrated right now."
+            mammoth "You have no idea. These guys just robbed a bank, and they're going to get away if I don't stop 'em."
         "I have no idea what to do.":
             pc "I have no idea what to do. Bernard, do you have any ideas?"
             bernard "Pfft. You didn't even try. Mammoth, are there any other entrances?"
